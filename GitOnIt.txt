@@ -1,0 +1,11 @@
+
+
+
+Authentication:
+
+manually unset credential.helper by running below command.
+
+git config --global --unset credential.helper
+use --global or --local or --system as per your needs.
+
+Then pushing in github will ask for username and password.
