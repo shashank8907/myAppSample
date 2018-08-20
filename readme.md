@@ -1,3 +1,4 @@
 #MyApp
 
-This is a test sample 
+This is a test sample repository for testing GIT
+
